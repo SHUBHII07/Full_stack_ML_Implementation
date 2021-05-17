@@ -1,1 +1,1 @@
-# Full_statck_ML_Implementation
+# Full_stack_ML_Implementation
